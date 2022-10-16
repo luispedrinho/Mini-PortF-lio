@@ -33,6 +33,8 @@ body {
 .cartao .minhas-informacoes img {
     border-radius: 50px;
     border: 4px solid #02d08f;
+    width: 120px;
+    height: 120px;
 }
 
 .cartao .minhas-informacoes .nome {
